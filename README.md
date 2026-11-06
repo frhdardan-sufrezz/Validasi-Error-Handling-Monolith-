@@ -28,3 +28,4 @@ Salin seluruh isi folder ini ke root project, timpa jika ditanya.
 8. `php artisan serve`, buka http://localhost:8000 dan login: `user@example.com` / `password123`
 
 Catatan: rute buku dan penulis dilindungi middleware `auth`, jadi login dulu.
+# Validasi-Error-Handling-Monolith-
